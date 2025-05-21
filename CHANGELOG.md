@@ -11,3 +11,4 @@ Added `root(a)` function in `functions.py` to perform square root.
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
+- Provided `README.md` with basic project information and setup instructions.
